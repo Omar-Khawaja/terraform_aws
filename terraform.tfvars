@@ -1,0 +1,3 @@
+
+region = "<region>"
+ami = "<ami>"
